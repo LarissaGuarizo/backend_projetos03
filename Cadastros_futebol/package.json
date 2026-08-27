@@ -1,0 +1,16 @@
+{
+  "name": "cadastros_futebol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node servidor/server.js"
+  },
+  "keywords": [],
+  "author": "LarissaGuarizo",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
